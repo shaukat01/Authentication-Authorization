@@ -1,0 +1,1 @@
+# About : Thid Authentication and Authorization project ensures secure access to resources. It validates user identities through authentication mechanisms. Authorization controls what actions users can perform based on their roles or permissions. This project enhances the overall security and user experience of an application
